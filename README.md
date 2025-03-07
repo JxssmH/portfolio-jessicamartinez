@@ -11,12 +11,11 @@
 
 ## 📁 Estructura del proyecto  
 ```plaintext
-├── index.html       # Página principal  
-├── about.html       # Sobre mí  
-├── projects.html    # Proyectos destacados  
-├── contact.html     # Contacto y redes sociales  
-├── assets/          # Imágenes y otros recursos  
-└── css/             # Archivos de estilos  
+├── index.html          # Página principal  
+├── about.html          # Sobre mí    
+├── redesSociales.html  # Contacto y redes sociales  
+├── assets/             # Imágenes y otros recursos  
+└── css/                # Archivos de estilos  
 ``` 
 ## 🚀 Instalación y uso  
 1. Clona este repositorio:  
