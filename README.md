@@ -17,7 +17,7 @@
 ├── contact.html     # Contacto y redes sociales  
 ├── assets/          # Imágenes y otros recursos  
 └── css/             # Archivos de estilos  
-
+``` 
 ## 🚀 Instalación y uso  
 1. Clona este repositorio:  
    ```bash
